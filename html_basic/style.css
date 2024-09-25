@@ -1,0 +1,9 @@
+.clickable-image {
+    width: 300px; /* Adjust the size as needed */
+    height: auto;
+    transition: transform 0.2s; /* Smooth transition for hover effect */
+}
+
+.clickable-image:hover {
+    transform: scale(1.1); /* Slightly enlarge the image on hover */
+}
